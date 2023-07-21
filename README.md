@@ -11,10 +11,16 @@ The Myers-Briggs Personality Type Indicator is a self-report inventory designe
 ![image](https://github.com/suhaspr15/I-Dream-Career/assets/118530757/68463e33-a0c7-44f9-8a2a-a76133de2455)
 
 
+![image](https://github.com/suhaspr15/I-Dream-Career/assets/118530757/d423c5cb-f14e-497a-b46c-0bec75b993b7)
 
 
 
 
 ![image](https://github.com/suhaspr15/I-Dream-Career/assets/118530757/eac368e7-72f3-413c-aa89-3aa079395226)
+
+
+
+![image](https://github.com/suhaspr15/I-Dream-Career/assets/118530757/d684932e-266a-46c7-bd88-990006fb30a3)
+
 
 
