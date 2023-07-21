@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604722009229",
+    "project_id": "quizfrag-96df8",
+    "storage_bucket": "quizfrag-96df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604722009229:android:5bfc01013293c114b5fec4",
+        "android_client_info": {
+          "package_name": "com.example.quizfrag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604722009229-eooaom6t0qoekdm7h9nfh6v9dapftc17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSkWtZJsFtUWpHlz6MpxYY246gjIDUlSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604722009229-eooaom6t0qoekdm7h9nfh6v9dapftc17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
